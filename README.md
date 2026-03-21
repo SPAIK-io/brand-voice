@@ -224,32 +224,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 
 ---
 
-## 7. Jochem vs SPAIK
-
-Jochem's persoonlijke stem en SPAIK's bedrijfsstem overlappen maar zijn niet identiek.
-
-| Dimensie | Jochem (LinkedIn, persoonlijk) | SPAIK (website, proposals, bedrijf) |
-|----------|-------------------------------|--------------------------------------|
-| Perspectief | "Ik" | "We" |
-| Kwetsbaarheid | Hoog — fouten, twijfels, lessen | Beperkt — eerlijk, niet persoonlijk |
-| Humor | Knipogen, ps-jes | Spaarzaam |
-| Onderwerpen | Leiderschap, groei, lessen | Diensten, resultaten, methodiek |
-| CTA | "Hoe pak jij dit aan?" | "Plan een gesprek" |
-| Held | Mensen — een klant, collega | Het resultaat — wat concreet veranderde |
-
-**Beide stemmen delen:** Directheid, afkeer van hype, concrete voorbeelden, mensen centraal, Nederlandse nuchterheid.
-
-### Wanneer welke stem?
-
-- LinkedIn post over klantervaring → **Jochem**
-- Proposal → **SPAIK**
-- Blog over AI-filosofie → **Mix** (Jochem's inzichten, SPAIK's structuur)
-- Workshop → **Jochem** met SPAIK's content
-- Offerte-email → **SPAIK**
-
----
-
-## 8. Taalregels
+## 7. Taalregels
 
 ### Nederlands vs Engels
 
@@ -291,7 +266,7 @@ Jochem's persoonlijke stem en SPAIK's bedrijfsstem overlappen maar zijn niet ide
 
 ---
 
-## 9. Verboden patronen
+## 8. Verboden patronen
 
 ### Lege openers (direct schrappen)
 
@@ -349,7 +324,7 @@ waarde toevoegen, digitale transformatie, innovatieve oplossingen, oplossingen o
 
 ---
 
-## 10. Het spectrum
+## 9. Het spectrum
 
 Waar SPAIK zit tussen te casual en te corporate:
 
@@ -362,7 +337,7 @@ Waar SPAIK zit tussen te casual en te corporate:
 
 ---
 
-## 11. Proof points
+## 10. Proof points
 
 *Check spaik.io voor actuele cijfers.*
 
@@ -388,7 +363,7 @@ Waar SPAIK zit tussen te casual en te corporate:
 
 ---
 
-## 12. De SPAIK-test
+## 11. De SPAIK-test
 
 Check elke tekst tegen deze vragen:
 
@@ -409,7 +384,6 @@ Check elke tekst tegen deze vragen:
 
 ### Kanaal
 - [ ] Past de toon bij het kanaal? (Zie sectie 6)
-- [ ] Juiste stem — Jochem of SPAIK? (Zie sectie 7)
 
 ---
 

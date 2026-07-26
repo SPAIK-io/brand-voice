@@ -161,7 +161,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "SPAIK helpt organisaties om aanzienlijke efficiencyverbeteringen te realiseren door middel van slimme AI-oplossingen die substantiële besparingen opleveren."
 
 **SPAIK schrijft:**
-> "Verweij Houttechniek ging van 20 uur planning per week naar 1 uur. Reditus bespaart 16 uur per week op affiliate sourcing. Movir produceert content 3x sneller."
+> "Verweij Houttechniek ging van 4 uur planning per week naar 30 minuten. Reditus bespaart 16 uur per week op affiliate sourcing. Movir produceert content 3x sneller."
 
 **Regel:** Geen bijvoeglijk naamwoord zonder getal. Geen claim zonder voorbeeld.
 
@@ -355,7 +355,7 @@ Waar SPAIK zit tussen te casual en te corporate:
 
 | Klant | Resultaat |
 |-------|-----------|
-| Verweij Houttechniek | Planning van 20 uur/week → 1 uur/week |
+| Verweij Houttechniek | Planning van 4 uur/week → 30 minuten (87,5% besparing) |
 | Movir | 100 mensen geactiveerd, content 3x sneller |
 | Euphoria Mobility | 12x return in 1 maand, 6 werkende prototypes |
 | Reditus | 16 uur/week bespaard, nieuwe revenue stream |

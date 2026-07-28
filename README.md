@@ -234,7 +234,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 |-------------------|---------|
 | ROI, KPI, API, CRM, AI | Sprint → bouwfase |
 | Productnamen (Claude, Make.com) | Check-in → overleg |
-| Champion (SPAIK-eigen term) | Deep dive → grondige analyse |
+| AI lead (SPAIK-eigen term) | Deep dive → grondige analyse |
 | | Deliverables → oplevering |
 | | Kickoff → start |
 | | Standup → kort overleg |

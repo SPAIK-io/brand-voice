@@ -21,7 +21,7 @@ SPAIK helpt organisaties (50-500 medewerkers) om AI daadwerkelijk werkend te kri
 
 **Hero statement:** "Je beste mensen. Vast in handmatig werk."
 
-**Klanten:** Verzekeraars, bouwbedrijven, SaaS-bedrijven, marketingbureaus, trainingsorganisaties. Nuchtere organisaties, geen tech startups.
+**Klanten:** woningcorporaties, financiele dienstverlening, groothandel en techniek. Actuele lijst: `sectors/tiering.json` in SPAIK-io/spaik-context. Nuchtere organisaties, geen tech startups. Marketing- en AI-bureaus zijn concurrent, geen klant.
 
 ---
 
@@ -228,7 +228,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 
 ### Nederlands vs Engels
 
-**De doelgroep-test:** Zou de CEO van een bouwbedrijf of verzekeraar dit woord zelf gebruiken?
+**De doelgroep-test:** Zou een corporatiedirecteur of een groothandel-directeur dit woord zelf gebruiken?
 
 | Mag (universeel) | Vertaal |
 |-------------------|---------|

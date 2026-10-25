@@ -246,7 +246,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 | optimaliseren | verbeteren |
 | faciliteren | helpen, mogelijk maken |
 | realiseren | maken, bouwen |
-| implementeren | invoeren |
+| AI invoeren | AI implementeren (invoeren klinkt als een systeem uitrollen) |
 | transformatie | verandering |
 | stakeholder | betrokkene, teamlid |
 | deliverable | oplevering |

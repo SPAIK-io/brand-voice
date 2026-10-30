@@ -256,6 +256,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 | substantieel / significant | concreet getal noemen |
 | innovatief / baanbrekend | laat het resultaat spreken |
 | ten aanzien van / middels / teneinde | over / met / om |
+| agent of AI-collega in een volledige zin | digitale collega. "Agent" alleen in een fragment (label, legenda, kolomkop, bijschrift) en in klassen, bestandsnamen en trainingstitels. "AI-collega" nooit |
 
 ### Nederlandse conventies
 

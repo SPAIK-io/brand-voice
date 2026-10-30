@@ -21,7 +21,7 @@ SPAIK helpt organisaties (50-500 medewerkers) om AI daadwerkelijk werkend te kri
 
 **Hero statement:** "Je beste mensen. Vast in handmatig werk."
 
-**Klanten:** woningcorporaties, financiele dienstverlening, groothandel en techniek. Actuele lijst: `spaik-context/sectors/tiering.json`. Nuchtere organisaties, geen tech startups. Marketing- en AI-bureaus zijn concurrent, geen klant.
+**Klanten:** woningcorporaties, financiële dienstverlening, groothandel en techniek. Actuele lijst: `spaik-context/sectors/tiering.json`. Nuchtere organisaties, geen tech startups. Marketing- en AI-bureaus zijn concurrent, geen klant.
 
 ---
 
@@ -29,7 +29,7 @@ SPAIK helpt organisaties (50-500 medewerkers) om AI daadwerkelijk werkend te kri
 
 ### Als SPAIK een persoon was
 
-**De ervaren vakman.** 10+ jaar in het vak. Hoeft expertise niet te bewijzen — resultaten spreken. Licht ongeduldig met theoretische discussies. Wil bouwen.
+**De ervaren vakman.** 10+ jaar in het vak. Hoeft expertise niet te bewijzen: resultaten spreken. Licht ongeduldig met theoretische discussies. Wil bouwen.
 
 **De rechttoe-rechtaan zakenpartner.** Vertelt je wat je moet horen, niet wat je wilt horen. Eerlijk over kosten, tijdlijnen en beperkingen. Viert jouw onafhankelijkheid.
 
@@ -78,6 +78,7 @@ SPAIK is geen monotone stem. We schakelen bewust:
 - Cijfers altijd vet: **€10.000**, **4 weken**, **12 uur/week**
 - Eén idee per zin
 - Actieve stem: "we bouwen" niet "er wordt gebouwd"
+- Geen em-dash of en-dash, ook niet in koppen: gebruik een punt, komma, dubbele punt of haakjes
 
 ---
 
@@ -99,9 +100,11 @@ Elk statement heeft een getal. Altijd.
 
 ### De tandem-metafoor
 
-Hoe we de samenwerking uitleggen — van afhankelijk naar onafhankelijk.
+Hoe we de samenwerking uitleggen: van afhankelijk naar onafhankelijk.
 
 > "Wij fietsen voorop → jullie sturen mee → jullie fietsen zelf."
+
+Korte vorm, als er maar drie woorden passen: **voordoen, meedoen, zelf doen.** Zelfde volgorde, zelfde betekenis. Niet "samen doen" of "overnemen".
 
 ### Mythe vs realiteit
 
@@ -137,7 +140,7 @@ Test of een beslisser die niet bij het gesprek was het direct begrijpt.
 
 Lichte humor in de marge. Nooit ten koste van iemand.
 
-> "ps. Als je David, Gwen of Ted kent — zeg ze gerust gedag. Ze bijten niet."
+> "ps. Als je David, Gwen of Ted kent, zeg ze gerust gedag. Ze bijten niet."
 
 ---
 
@@ -151,7 +154,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "SPAIK's baanbrekende aanpak transformeert organisaties en levert indrukwekkende resultaten op. Teams worden volledig getransformeerd en bereiken ongekende productiviteit."
 
 **SPAIK schrijft:**
-> "Onze aanpak werkt bij de meeste teams. Niet bij allemaal. Succes hangt af van jullie commitment — wij kunnen bouwen, maar zonder een interne champion die het draagt, stopt adoptie na maand 2."
+> "Onze aanpak werkt bij de meeste teams. Niet bij allemaal. Succes hangt af van jullie commitment: wij kunnen bouwen, maar zonder een interne AI lead die het draagt, stopt adoptie na maand 2."
 
 **Regel:** Wees eerlijk over beperkingen. Noem wat kan mislukken. Dat is geloofwaardiger dan beloftes.
 
@@ -161,7 +164,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "SPAIK helpt organisaties om aanzienlijke efficiencyverbeteringen te realiseren door middel van slimme AI-oplossingen die substantiële besparingen opleveren."
 
 **SPAIK schrijft:**
-> "Verweij Houttechniek ging van 4 uur planning per week naar 30 minuten. Reditus bespaart 16 uur per week op affiliate sourcing. Movir produceert content 3x sneller."
+> "Bij Verweij Houttechniek ging de planning van 4 uur naar 30 minuten. Reditus ging van 16 uur naar 30 minuten per klant op affiliate sourcing. Bij Movir trainden we ruim 300 medewerkers."
 
 **Regel:** Geen bijvoeglijk naamwoord zonder getal. Geen claim zonder voorbeeld.
 
@@ -171,7 +174,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "Als je AI niet serieus neemt, wordt je bedrijf irrelevant. Punt. Stop met excuses maken en begin."
 
 **SPAIK schrijft:**
-> "De meeste bedrijven worstelen met AI-adoptie. Dat is normaal. De vraag is niet of je er klaar voor bent — de vraag is waar je begint."
+> "De meeste bedrijven worstelen met AI-adoptie. Dat is normaal. De vraag is niet of je er klaar voor bent. De vraag is waar je begint."
 
 **Regel:** Direct, niet agressief. Hard op inhoud, zacht op de mens. Confronteer met feiten, niet met oordelen.
 
@@ -181,7 +184,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "Onze holistische, end-to-end oplossing faciliteert de digitale transformatie van uw organisatie middels een gestroomlijnd implementatieproces."
 
 **SPAIK schrijft:**
-> "We bouwen een automatisering die werkt met je bestaande systemen. In 4 weken draait ie. In 4 maanden terugverdiend."
+> "We bouwen een automatisering die werkt met je bestaande systemen. In 4 weken draait ie."
 
 **Regel:** Schrijf Nederlands. Geen vertaalde Silicon Valley-zinnen. Als je het niet zo zou zeggen aan de telefoon, schrijf het niet op.
 
@@ -191,7 +194,7 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 > "In het huidige tijdperk van digitalisering is het essentieel voor organisaties om AI te omarmen. Bedrijven die niet innoveren lopen het risico achter te blijven."
 
 **SPAIK schrijft:**
-> "80% van AI-licenties ligt na maand 1 stil. Niet door de tool, maar door gebrek aan adoptie. De mensen die AI wél gebruiken zijn niet 20% sneller — ze zijn 6x productiever."
+> "80% van AI-licenties ligt na maand 1 stil. Niet door de tool, maar door gebrek aan adoptie. De mensen die AI wél gebruiken zijn niet 20% sneller. Ze zijn 6x productiever."
 
 **Regel:** Geen algemeenheden. Begin met een specifiek feit, een naam, of een scenario. Als je zin op elke willekeurige AI-website zou passen, is het niet SPAIK.
 
@@ -309,7 +312,7 @@ waarde toevoegen, digitale transformatie, innovatieve oplossingen, oplossingen o
 - Perfecte symmetrie in lijsten (alle items even lang)
 - "Allereerst... ten tweede... tot slot..."
 - Samenvattende slotzin die niets toevoegt
-- Overmatig transitiewoorden (daarnaast, bovendien, verder — max 1 per 3 alinea's)
+- Overmatig transitiewoorden (daarnaast, bovendien, verder: max 1 per 3 alinea's)
 - Consistent 3-zinnen-alinea's door heel de tekst
 - Synoniemen-cycling (cruciaal → essentieel → vitaal)
 
@@ -339,27 +342,21 @@ Waar SPAIK zit tussen te casual en te corporate:
 
 ## 10. Proof points
 
-*Check spaik.io voor actuele cijfers.*
+*Bron: `spaik-context/cases/proof-points.md`. Gebruik extern alleen wat daar groen (🟢) staat; geel (🟡) is niet bevestigd en gaat niet naar buiten zonder check.*
 
 | Metric | Waarde |
 |--------|--------|
-| Mensen getraind | 700+ |
-| Gemiddelde deelnemerswaardering | 9.1/10 |
-| Implementaties | 35+ |
 | Tijd tot eerste automatisering | 4 weken |
-| Gemiddelde terugverdientijd | 4 maanden |
-| Snelste ROI | 12x in 1 maand (Euphoria) |
-| Sectoren | 10+ |
 
 ### Klantresultaten
 
 | Klant | Resultaat |
 |-------|-----------|
-| Verweij Houttechniek | Planning van 4 uur/week → 30 minuten (87,5% besparing) |
-| Movir | 100 mensen geactiveerd, content 3x sneller |
-| Euphoria Mobility | 12x return in 1 maand, 6 werkende prototypes |
-| Reditus | 16 uur/week bespaard, nieuwe revenue stream |
-| NN Risk | 8% effectiever (gemeten bij 90+ mensen) |
+| Verweij Houttechniek | Planning van 4 uur → 30 minuten (87,5% besparing) |
+| Movir | Ruim 300 medewerkers getraind (322 bij de telling van februari 2026) |
+| Euphoria Mobility | 6 werkende prototypes in 2 dagen, 3 naar productie |
+| Reditus | 16 uur naar 30 minuten per klant, 32 keer sneller |
+| Nationale-Nederlanden Non-life | 90+ mensen opgeleid, AI leads actief |
 
 ---
 
@@ -368,7 +365,7 @@ Waar SPAIK zit tussen te casual en te corporate:
 Check elke tekst tegen deze vragen:
 
 ### Stem
-- [ ] Zou Jochem of Thijs dit zo zeggen in een gesprek?
+- [ ] Zou Jochem dit zo zeggen in een gesprek?
 - [ ] Klinkt het als een echt mens, niet als een brochure?
 - [ ] Kan ik 30% schrappen zonder betekenis te verliezen?
 
@@ -391,11 +388,11 @@ Check elke tekst tegen deze vragen:
 
 Drie waarden vormen de stem:
 
-**Ondernemerschap** — We pakken kansen, groeien proactief, bouwen samen. Dit hoor je in actieve, resultaatgerichte taal.
+**Ondernemerschap.** We pakken kansen, groeien proactief, bouwen samen. Dit hoor je in actieve, resultaatgerichte taal.
 
-**Eerlijkheid = Liefde** — Hard op inhoud, zacht op de mens. Dit hoor je in directheid en eerlijkheid over wat wel en niet kan.
+**Eerlijkheid = Liefde.** Hard op inhoud, zacht op de mens. Dit hoor je in directheid en eerlijkheid over wat wel en niet kan.
 
-**Fun** — Serieus maar menselijk. Dit hoor je in knipogen, ps-jes, en de afwezigheid van corporate stijfheid.
+**Fun.** Serieus maar menselijk. Dit hoor je in knipogen, ps-jes, en de afwezigheid van corporate stijfheid.
 
 ---
 

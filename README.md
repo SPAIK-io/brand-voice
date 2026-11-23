@@ -79,6 +79,8 @@ SPAIK is geen monotone stem. We schakelen bewust:
 - Eén idee per zin
 - Actieve stem: "we bouwen" niet "er wordt gebouwd"
 - Geen em-dash of en-dash, ook niet in koppen: gebruik een punt, komma, dubbele punt of haakjes
+- Schrijf de stand, niet de verschuiving. Kende de lezer de vorige versie niet, dan bestaat die niet in dit stuk: geen "verschoof van", "eerder dachten we" of "inmiddels". Was de lezer erbij en raakt de wijziging hem, noem hem dan in één zin
+- In materiaal dat de klant zelf invult of intern doorstuurt is de klant het onderwerp van elke volgende stap. Geen "SPAIK voorop" of "samen met een externe partij": dat leest als verkoop
 
 ---
 
@@ -242,6 +244,8 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 | | Kickoff → start |
 | | Standup → kort overleg |
 
+**Het woord van de werkvloer wint.** Vertaal jargon dat de lezer moet opzoeken, niet het leenwoord dat iedereen al zegt: "bottleneck" blijft, "flessenhals" is stijver dan het origineel. Een afkorting of vakterm gebruik je alleen als deze lezer hem aantoonbaar kent; anders schrijf je hem uit.
+
 ### Woordvervanging
 
 | Vermijd | Gebruik |
@@ -257,6 +261,11 @@ Vijf dingen die AI-modellen consistent fout doen bij SPAIK-content.
 | innovatief / baanbrekend | laat het resultaat spreken |
 | ten aanzien van / middels / teneinde | over / met / om |
 | agent of AI-collega in een volledige zin | digitale collega. "Agent" alleen in een fragment (label, legenda, kolomkop, bijschrift) en in klassen, bestandsnamen en trainingstitels. "AI-collega" nooit |
+| champion | AI lead. Los geschreven zonder koppelteken ("AI lead", "AI leads"), met koppelteken in een samenstelling (AI-leadteam), met hoofdletters in de productnaam (AI Lead Programma) |
+| het nummer van onze eigen indeling in een kop of zin voor de klant ("Laag 1", "Blok 2") | de inhoud zelf. De klant heeft onze indeling nooit gehoord |
+| eigenaar, zonder te zeggen wat die doet | wie doet wat, en wanneer ("slecht nieuws dezelfde dag, ook aan de klant") |
+| een zelfbedacht begrip, ook als het in onze eigen stukken staat | de gangbare term, of een gewone zin die zegt wat je bedoelt |
+| in jullie systemen, inside your environment (bij een bank of een dochter daarvan) | binnen jullie kaders en risicoaanpak (within your frameworks and risk approach) |
 
 ### Nederlandse conventies
 
@@ -406,5 +415,5 @@ Als je AI-output corrigeert en het is een patroon (niet eenmalig):
 
 ---
 
-*Laatste update: maart 2026*
+*Laatste update: november 2026*
 *Bron: github.com/SPAIK-io/brand-voice*
